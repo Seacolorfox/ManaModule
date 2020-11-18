@@ -12,7 +12,7 @@ namespace ManaTemp
         public SqlConnection connection()
         {
             //数据库连接
-            string str = "Data Source=SEACOLORFOX-Y50;Initial Catalog=ManaTemp;Integrated Security=True";
+            string str = "[PUT YOUR DATA SOURCE HERE]";
             SqlConnection sc = new SqlConnection(str);
             sc.Open();
             return sc;
