@@ -21,27 +21,27 @@ orz
 
 #### 主界面：
 
-![主界面](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_mainpage.png?raw=true)
+![主界面](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_mainpage.png)
 
 #### 一些功能模块：
 
 ##### 添加用户信息：
-![用户信息](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_addpage.png?raw=true)
+![用户信息](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_addpage.png)
 
 ##### 用户详情：
 
-![用户详情页](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_detailpage.png?raw=true)
+![用户详情页](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_detailpage.png)
 
 ##### 日期选择（使用控件）:
 
-![日期选择](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_timepicker.png?raw=true)
+![日期选择](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_timepicker.png)
 
 ##### 兴趣爱好：
 
-![hobby](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_checkbox.png?raw=true)
+![hobby](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_checkbox.png)
 
 ##### 简单的查询：
 
-![查询](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_searchmode.png?raw=true)
+![查询](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_searchmode.png)
 
-![查询输入框](https://raw.githubusercontent.com/Seacolorfox/ManaModule/README.assets/manamodule_searchform.png?raw=true)
+![查询输入框](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_searchform.png)
