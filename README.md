@@ -1,4 +1,10 @@
 # ManageModule
+（很久以前）新增了WebForm版本
+
+**一定要记得修改WebConfig~**
+
+-----------
+
 WinForm用户管理模块
 
 ### 这是什么？？
