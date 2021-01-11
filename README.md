@@ -3,6 +3,16 @@
 
 **一定要记得修改WebConfig~**
 
+WebForm版本截图
+
+使用了Repeater分页
+
+![ManaModuleWeb_mainPage](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/ManaModuleWeb_mainPage.png)
+
+![ManaModuleWeb_detailPage](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/ManaModuleWeb_detailPage.png)
+
+![ManaModuleWeb_editPage](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/ManaModuleWeb_editPage.png)
+
 -----------
 
 WinForm用户管理模块
