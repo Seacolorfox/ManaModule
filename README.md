@@ -1,11 +1,21 @@
 # ManageModule
+### 这是什么？？
+
+这是一个简单的C# **WinForm**&&**WebForm**用户管理系统模块。
+
+是实习期的简单小测试题目。
+
+因为当时不太清楚（赶鸭子上架）WinForm以及SQLServer的使用，只有基本功能。
+
+------
+
 （很久以前）新增了WebForm版本
 
 **一定要记得修改WebConfig~**
 
 WebForm版本截图
 
-使用了Repeater分页
++使用了**Repeater分页**
 
 ![ManaModuleWeb_mainPage](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/ManaModuleWeb_mainPage.png)
 
@@ -17,21 +27,15 @@ WebForm版本截图
 
 WinForm用户管理模块
 
-### 这是什么？？
 
-这是一个简单的C# **WinForm**用户管理系统模块。
 
-是实习的简单小测试题目。
-
-因为不太清楚WinForm以及SQLServer的使用，只有基本功能。
-
-（甚至连自增都是假自增,随机生成id+没有落实到数据库）<del>（管他呢反正他们只看界面）</del>
+<del>（甚至连自增都是假自增,随机生成id+没有落实到数据库）</del><del>（管他呢反正他们只看界面）</del>
 
 结果做完了
 
 瞟了一眼他们代码发现他们用三层B/S
 
-大概是项目经理以为.net只能做ASP WebForm⑧哈哈哈。。。
+<del>大概是项目经理以为.net只能做ASP WebForm⑧哈哈哈。。。</del>
 
 orz
 
@@ -61,3 +65,7 @@ orz
 ![查询](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_searchmode.png)
 
 ![查询输入框](https://raw.githubusercontent.com/Seacolorfox/ManaModule/main/README.assets/manamodule_searchform.png)
+
+------
+
+now：当事人折腾一段时间vs8之后就是非常后悔.jpg
